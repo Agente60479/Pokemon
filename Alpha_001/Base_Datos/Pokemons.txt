@@ -1,0 +1,12 @@
+001	Bulbasaur	2	Planta	Veneno	2	0	002	Base_Datos/Texturas_Pokemon/001.bmp
+002	Ivysaur		2	Planta	Veneno	1	001	003	Base_Datos/Texturas_Pokemon/002.bmp
+003	Venusaur	2	Planta	Veneno	0	002	0	Base_Datos/Texturas_Pokemon/003.bmp
+004	Charmander	1	Fuego		2	0	005	Base_Datos/Texturas_Pokemon/004.bmp
+005	Charmaleon	1	Fuego		1	004	006	Base_Datos/Texturas_Pokemon/005.bmp
+006	Charizard	2	Fuego	Volador	0	005	0	Base_Datos/Texturas_Pokemon/006.bmp
+007	Squirtle	1	Agua		2	0	008	Base_Datos/Texturas_Pokemon/007.bmp
+008	Wartortle	1	Agua		1	007	009	Base_Datos/Texturas_Pokemon/008.bmp
+009	Blastoise	1	Agua		0	008	0	Base_Datos/Texturas_Pokemon/009.bmp
+010	Caterpie	1	Bicho		2	0	011	Base_Datos/Texturas_Pokemon/010.bmp
+011	Metapot		1	Bicho		1	010	012	Base_Datos/Texturas_Pokemon/011.bmp
+012	Butterfree	2	Bicho	Volador	0	011	0	Base_Datos/Texturas_Pokemon/012.bmp
